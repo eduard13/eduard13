@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/eduard13/count.svg)
+
 <!--
 **eduard13/eduard13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
