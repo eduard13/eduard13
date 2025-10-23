@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/eduard13/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&style=for-the-badge&color=blueviolet)
 
-### <img height="20" src="https://simpleicons.org/icons/github.svg"> GitHub stats:
-![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduard13&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eduard13)
+<ul>
+  <li>![](https://img.shields.io/badge/PHP-8.3-blue?style=for-the-badge&logo=php)</li>
+  <li>![](https://img.shields.io/badge/Magento_2-Commerce-orange?style=for-the-badge&logo=magento)</li>
+</ul>
 
 <!--
 **eduard13/eduard13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
